@@ -44,9 +44,5 @@
   &=2^{\vert \mathcal{X} \vert-1}\sum_{x\in\mathcal{X}-X}P(x) \cdot 1\\
   \end{aligned}$$
 
-## 发展历程
 
-
-
-## 应用现状
 
